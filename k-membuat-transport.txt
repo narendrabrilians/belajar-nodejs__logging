@@ -1,0 +1,7 @@
+
+
+misal ingin mengirim ke database, chat, email dan lainnya
+
+kita bisa mencari Transport yang opensource atau kita juga bisa membuatnya secara manual
+
+membuat Transport => membuat class turunan dari package winston-transport

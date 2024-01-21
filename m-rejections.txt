@@ -1,0 +1,3 @@
+logging-rejection.js
+
+selain exception karena tidak try catch, ada promise rejection yang tidak di-catch

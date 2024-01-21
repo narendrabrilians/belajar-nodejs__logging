@@ -1,0 +1,7 @@
+logging-format.test.js
+Format => object yang digunakan untuk formatting data log sebelum dikirim ke Transport
+
+default Logger => JSON
+bisa format selain JSON
+
+bisa format buat sendiri

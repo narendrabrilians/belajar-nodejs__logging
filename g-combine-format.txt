@@ -1,0 +1,3 @@
+logging-combine-format.test.js
+
+kombinasi beberapa format sekaligus

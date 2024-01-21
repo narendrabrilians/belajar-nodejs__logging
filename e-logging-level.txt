@@ -1,0 +1,6 @@
+logging-level.test.js
+
+level => seberapa penting log (error, warn, info, http, verbose, debug, silly)
+default log yang akan terkirim ke transport hanya info ke atas
+
+shortcut function, bisa langsung pakai level

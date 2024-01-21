@@ -1,0 +1,5 @@
+rotate-file.test.js
+
+default => winston transport file akan menyimpan semua log di dalam satu file
+
+Daily Rotate File => bisa untuk otomatis menghapus file lama yang tidak diperlukan lagi

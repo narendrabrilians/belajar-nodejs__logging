@@ -1,0 +1,3 @@
+log file => berisi informasi kejadian sebuat sistem
+logging => aksi menambah informasi log ke log file
+bisa untuk proses debugging

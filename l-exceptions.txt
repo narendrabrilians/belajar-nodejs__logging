@@ -1,0 +1,3 @@
+logging-exception.js
+
+pengaturan di Logger untuk menangkap exception dan mengirim ke semua transport (bisa)

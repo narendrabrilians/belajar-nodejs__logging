@@ -1,0 +1,7 @@
+logger-console-transport.test.js
+destinasi atau target yang digunakan untuk mengirim log
+
+banyak sekali transport misalnya Console
+Console => Transport yang digunakan untuk mengirim data log ke console/stdout
+
+transports: [new winston.transports.Console({})]
